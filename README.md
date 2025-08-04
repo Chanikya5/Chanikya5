@@ -1,35 +1,60 @@
-<h1 align="center">Hi 👋, I'm Chanikya</h1>
-<h3 align="center">Aspiring AI Engineer | Python Enthusiast | Web Developer</h3>
+<!-- GitHub Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Chanikya5&label=Profile%20Views&color=blueviolet&style=flat" alt="Chanikya5" />
+</p>
 
-- 🔭 I’m currently working on: **Offline Chatbot using Mistral**
-- 🌱 I’m learning: **Python, Flask, LLMs, React**
-- 👯 I’m looking to collaborate on: **AI/ML and Chatbot Projects**
-- 💬 Ask me about: **Python, Open Source, AI agents**
-- 📫 Reach me at: [your email or LinkedIn]
-- ⚡ Fun fact: I love debugging more than coding 🐛
-
----
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+<!-- Animated Typing SVG Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FF7F7&vCenter=true&center=true&lines=Hi+%F0%9F%91%8B+I'm+G.+Chanikya;AI%2FML+Enthusiast+%7C+Python+Dev;Building+Offline+AI+Chatbot+with+Mistral;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 📈 GitHub Stats
+### 👨‍💻 About Me
+- 🎓 B.Tech in CSE (AI & ML) from **NRI Institute of Technology**
+- 🔭 Currently working on: **Offline Chatbot using Mistral, Flask & TTS**
+- 🌱 Learning: **Python, AI/ML, React, Open Source, LLMs**
+- 💼 Looking for Internship Opportunities
+- 📫 Reach me: `gattichanikya123@gmail.com`
+
+---
+
+### 🚀 My Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanikya5&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanikya5&layout=compact&theme=radical" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,react,js,html,css,git,github,vscode,mysql,opencv" />
 </p>
 
 ---
 
-### 🧠 Projects to Check Out
-- 🔹 [Offline Mistral Chatbot](https://github.com/Chanikya5/your-chatbot-repo)
-- 🔹 [AI Tools Hub](https://github.com/Chanikya5/ai-tools)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chanikya5&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanikya5&theme=radical" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanikya5&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:gattichanikya123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Chanikya5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
+</p>
